@@ -1,0 +1,66 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 6em;
+    margin-top: auto;
+    margin-bottom: auto;
+    /* font-family: 'Moon Dance', cursive; */
+    font-family: 'Cabin Sketch', cursive;
+    /* font-family: 'Rubik Glitch', cursive; */
+    justify-content: center;
+    display: flex;
+}
+body{
+    /* background: linear-gradient(90deg, rgb(54, 170, 22) 0%, rgb(16, 57, 205) 25%, rgb(240, 11, 248) 75%, rgb(237, 159, 57) 100%); */
+    background-image: url("c.jpg"); 
+    background-size: cover;
+}
+form{
+    text-align: center;
+    justify-content: center;
+    background: whitesmoke;
+    width: 500px;
+    padding: 5px;
+    border-radius: 15px;
+}
+.one{
+    margin: 10px;
+    justify-content: center;
+    display: flex;
+}
+div{
+    text-align: center;
+    margin: 20px;;
+}
+input, select{
+    width: 55%;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+label{
+    width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input[type="Submit"]{
+    width: 40%;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: large;
+    border: 1px solid #ccc;
+    background: lightgreen;
+    color: #000;
+}
+input[type="Reset"]{
+    width: 40%;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    background: red;
+    font-size: large;
+    color: #000;
+}
