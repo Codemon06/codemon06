@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
+body
+{
+    background-image: url("pic2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1
+{
+    font-size: 175px;
+    font-family: 'Moon Dance', cursive;
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 2px 2px lightblue;
+    margin-bottom: 0px;
+    margin-top: 70px;
+}
+img
+{
+    margin-top: 0px;
+    margin-left: 50%;
+}
+p
+{
+    text-align: center;
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 50px;
+    color: whitesmoke;
+    text-shadow: 3px 3px blue;
+    margin-top: 10px;
+}
+div
+{
+    margin-top: 0px;
+    margin-left: 17%;
+    width: 30px;
+}
+a
+{
+    margin: 50px;
+    margin-top: 10px;
+}
