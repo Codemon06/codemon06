@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
 body
 {
-    background-image: url("bg.gif");
+    background-image: url("Assets/bg.gif");
     background-repeat: no-repeat;
     background-size: cover;
 }
