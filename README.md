@@ -43,5 +43,3 @@
 ![Mudit's Github Stats](https://github-readme-stats.vercel.app//api?username=Codemon06&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=1f6fea&text_color=fefefe)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Codemon06&theme=nightowl&hide_border=true" alt="Codemon06"/>
-
-(https://github.com/anuraghazra/github-readme-stats)
