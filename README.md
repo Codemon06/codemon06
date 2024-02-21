@@ -7,19 +7,15 @@
 
 > <h1 align="left">Hi 👋, I'm Mudit Gupta</h1>
 > <h3 align="left">An enthusiast programmer from India.</h3>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Codemon06&label=Profile%20views&color=red&style=flat" alt="Codemon06" /> </p>
 
 - 🌱 I’m currently doing DSA with C++ and ML with Python.
 
 - 📫 Always available at **[`muditg.world@gmail.com`](mailto:muditg.wolrd@gmail.com)**
 
-- ⚡ Other interest : `Web Development` | `Gaming`
+- ⚡ Other interest : `Gaming`
 
 ---
-
-<img align="right" width="350px" src="./image.gif">
-
-> <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/muditg.06/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mudit Gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/oye._.mg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Mudit Gupta" height="30" width="40" /></a>
@@ -40,6 +36,3 @@
  
 [![@codemon's Holopin board](https://holopin.io/api/user/board?user=codemon)](https://holopin.io/@codemon)
 ---
-![Mudit's Github Stats](https://github-readme-stats.vercel.app//api?username=Codemon06&show_icons=true&theme=gotham&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=1f6fea&text_color=fefefe)
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Codemon06&theme=nightowl&hide_border=true" alt="Codemon06"/>
